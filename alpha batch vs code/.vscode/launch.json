@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Assignmentoperator",
+            "request": "launch",
+            "mainClass": "Assignmentoperator",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "Ifelse",
+            "request": "launch",
+            "mainClass": "Ifelse",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "Javabasics",
+            "request": "launch",
+            "mainClass": "Javabasics",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "Logicaloperator",
+            "request": "launch",
+            "mainClass": "Logicaloperator",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "Realtionaloperator",
+            "request": "launch",
+            "mainClass": "Realtionaloperator",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "area",
+            "request": "launch",
+            "mainClass": "area",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "binary",
+            "request": "launch",
+            "mainClass": "binary",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "elseif",
+            "request": "launch",
+            "mainClass": "elseif",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "evenandodd",
+            "request": "launch",
+            "mainClass": "evenandodd",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "incometaxcal",
+            "request": "launch",
+            "mainClass": "incometaxcal",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "largestof2",
+            "request": "launch",
+            "mainClass": "largestof2",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "largestof3",
+            "request": "launch",
+            "mainClass": "largestof3",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "onetonprint",
+            "request": "launch",
+            "mainClass": "onetonprint",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "passorfail",
+            "request": "launch",
+            "mainClass": "passorfail",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "print1to10number",
+            "request": "launch",
+            "mainClass": "print1to10number",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "product",
+            "request": "launch",
+            "mainClass": "product",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "sumof3",
+            "request": "launch",
+            "mainClass": "sumof3",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "switchcal",
+            "request": "launch",
+            "mainClass": "switchcal",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "switchcase",
+            "request": "launch",
+            "mainClass": "switchcase",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "ternaryoperator",
+            "request": "launch",
+            "mainClass": "ternaryoperator",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "total",
+            "request": "launch",
+            "mainClass": "total",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "typecast",
+            "request": "launch",
+            "mainClass": "typecast",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "unary",
+            "request": "launch",
+            "mainClass": "unary",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        },
+        {
+            "type": "java",
+            "name": "whileloop",
+            "request": "launch",
+            "mainClass": "whileloop",
+            "projectName": "alpha batch vs code_89a9a8eb"
+        }
+    ]
+}
